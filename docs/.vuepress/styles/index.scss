@@ -1,0 +1,46 @@
+// AETHER palette on top of the VuePress default theme: teal accent, amber for JARVIS.
+:root {
+  --vp-c-accent: #0f8f87;
+  --vp-c-accent-hover: #0c7a73;
+  --vp-c-accent-bg: #0f8f87;
+  --vp-c-accent-soft: rgba(15, 143, 135, 0.14);
+  --ae-amber: #b8790f;
+  --ae-ok: #2f9a5b;
+  --ae-bad: #c8473b;
+  --ae-panel: #f4f7f9;
+  --ae-line: #dde4ea;
+}
+
+[data-theme='dark'] {
+  --vp-c-bg: #0e141b;
+  --vp-c-bg-alt: #121a22;
+  --vp-c-bg-elv: #16202a;
+  --vp-c-accent: #43d6c9;
+  --vp-c-accent-hover: #6ae3d8;
+  --vp-c-accent-bg: #2aa89d;
+  --vp-c-accent-soft: rgba(67, 214, 201, 0.14);
+  --ae-amber: #e7b04d;
+  --ae-ok: #5bcf8c;
+  --ae-bad: #ef6f62;
+  --ae-panel: #121a22;
+  --ae-line: #24313d;
+}
+
+// "Things you can say" in the text
+.say {
+  font-family: var(--vp-font-family-mono, ui-monospace, monospace);
+  font-size: 0.92em;
+  color: var(--ae-amber);
+  white-space: nowrap;
+}
+.say::before { content: 'jarvis '; opacity: 0.55; }
+
+.vp-hero-title { letter-spacing: -0.02em; }
+
+.ae-panel {
+  border: 1px solid var(--ae-line);
+  border-radius: 12px;
+  background: var(--ae-panel);
+  padding: 14px;
+  margin: 1rem 0;
+}
