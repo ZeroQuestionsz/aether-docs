@@ -34,6 +34,7 @@ export default defineUserConfig({
         children: [
           '/guide/star-map.md',
           '/guide/ground-view.md',
+          '/guide/survival.md',
           '/guide/satellites.md',
           '/guide/intel.md',
           '/guide/fleet.md',
@@ -59,6 +60,7 @@ export default defineUserConfig({
           children: [
             '/guide/star-map.md',
             '/guide/ground-view.md',
+            '/guide/survival.md',
             '/guide/satellites.md',
             '/guide/intel.md',
             '/guide/fleet.md',

@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.50
+
+- **Survival rules** (survival worlds): satellites report only while linked to a powered AETHER block through antennas (relay chains work). The full map needs a link, or open it at the block; otherwise <kbd>Ctrl</kbd>+<kbd>M</kbd> opens the 1 km suit map.
+- The Command Console is airtight.
+
 ## v0.49
 
 - Ground view: hills look solid from every angle; bases stand on top of their ground and hide behind ridges.

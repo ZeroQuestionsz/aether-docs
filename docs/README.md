@@ -20,8 +20,8 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
-::: tip v0.49
-Ground view now draws your bases as 3D models, block by block, on the terrain around you. [See the Ground view guide →](./guide/ground-view.md)
+::: tip v0.50
+Survival rules: in survival worlds, satellites report only while linked to your base, and away from your network the map is a 1 km suit map. [See the survival guide →](./guide/survival.md)
 :::
 
 ## Everything at a glance
