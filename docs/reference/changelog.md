@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.51
+
+- **AETHER Satellite Core**: in survival, satellites need one to report.
+- **AETHER Sensor Array**: scans its broadcast radius for ships and stations; power grows with range, and it broadcasts while scanning.
+- Survival: Planet View relief and ore estimates are earned by exploring; unlinked satellites show **NO LINK**.
+
 ## v0.50
 
 - **Survival rules** (survival worlds): satellites report only while linked to a powered AETHER block through antennas (relay chains work). The full map needs a link, or open it at the block; otherwise <kbd>Ctrl</kbd>+<kbd>M</kbd> opens the 1 km suit map.

@@ -29,8 +29,23 @@ Press <kbd>F</kbd> on a working AETHER block to get the full map, whatever the n
 The Command Console is a full, airtight block, so it can be part of a wall between space and a pressurized room.
 :::
 
+## Survival blocks <VersionBadge text="v0.51" />
+
+| Block | What it does |
+|---|---|
+| **AETHER Satellite Core** (large, small) | A satellite (an antenna in Satellite mode) reports and relays only while a working core is on its grid. It also works as a short-range ore detector. Its info panel says whether that satellite is reporting, and why not. |
+| **AETHER Sensor Array** (large 15 km, small 5 km) | Scans for ships and stations out to its **broadcast radius**, with terrain blocking line of sight, from wherever it's built. Power grows with the radius (up to 1.5 MW on the large one). It's a beacon underneath, so anyone in range sees it while it scans. It reports while it's on a grid with a powered AETHER block, or within your network antennas' range. |
+
+To play without the core requirement, set `SatelliteCore=off` under `[Survival]` in `AetherSettings.ini`. A satellite that isn't reporting shows **NO LINK** in every list.
+
+## Maps you earn
+
+- **Planet View** shows relief only where your linked satellites or you have observed the surface. Everywhere else is a plain, dark sphere that fills in as you explore.
+- **Ore estimates** stay unknown until you've landed on the planet or mapped half its surface.
+
 ## Getting started in survival
 
 1. Build a Star Map Terminal at your base and power it. Standing at it, you have the full map.
 2. Add a broadcasting antenna to the same grid. Inside its range, the full map works anywhere, not just at the block.
-3. Put satellites up within reach of that antenna, or of each other, so they link and report.
+3. A Sensor Array at the base watches the area around it, no satellites needed.
+4. Put satellites up, each with a Satellite Core, within reach of that antenna or of each other, so they link and report.

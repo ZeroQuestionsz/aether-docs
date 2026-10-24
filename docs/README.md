@@ -20,8 +20,8 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
-::: tip v0.50
-Survival rules: in survival worlds, satellites report only while linked to your base, and away from your network the map is a 1 km suit map. [See the survival guide →](./guide/survival.md)
+::: tip v0.51
+Survival: the Satellite Core and Sensor Array blocks, and Planet View maps you earn by exploring. [See the survival guide →](./guide/survival.md)
 :::
 
 ## Everything at a glance
