@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.53
+The Ship view and the Ship Layout LCD app: your ship or base deck by deck, with damage. [See the guide →](./guide/ship-view.md)
+:::
+
 ::: tip v0.51
 Survival: the Satellite Core and Sensor Array blocks, and Planet View maps you earn by exploring. [See the survival guide →](./guide/survival.md)
 :::

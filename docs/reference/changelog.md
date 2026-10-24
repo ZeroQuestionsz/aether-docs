@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.53
+
+- **Ship view**: press <kbd>S</kbd> on the map (or the new view tabs, bottom right) while aboard a ship or base: block by block, deck by deck, coloured by paint, damage or system; destroyed blocks stay as red ghosts. [Guide →](../guide/ship-view.md)
+- **AETHER: Ship Layout** LCD app: deck plans with damage, in small, medium and large layouts; several LCDs can show one picture.
+
 ## v0.52
 
 - Ground view: zoomed in close, the camera stays above the hills (no more seeing through them).
