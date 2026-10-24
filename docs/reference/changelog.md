@@ -1,4 +1,4 @@
-﻿# What's new
+# What's new
 
 The latest versions, newest first.
 
@@ -39,7 +39,7 @@ The latest versions, newest first.
 ## v0.46 and earlier
 
 - v0.46: a safety net for routes through closed piston doors.
-- v0.42â€“v0.45: the magnetic-plate hangar arm: grab, store, swap, hand-off docking and launch.
+- v0.42–v0.45: the magnetic-plate hangar arm: grab, store, swap, hand-off docking and launch.
 - v0.41: doors close behind ships, resting drones, parking lights.
 - v0.40: hangar arms with rotors; store, grab, swap.
 - v0.39: shape-aware docking through hangars, piston doors, movable ports.
