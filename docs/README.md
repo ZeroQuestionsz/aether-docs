@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.63
+Trading has its own page now, and pirates can go after your couriers: save your order in time, or insure it. [See the guide →](./guide/comms.md#pirates-and-insurance)
+:::
+
 ::: tip v0.62
 Buy from NPC stations over COMMS and have it delivered by courier to your base. [See the guide →](./guide/comms.md#trade)
 :::

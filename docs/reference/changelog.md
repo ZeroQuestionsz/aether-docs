@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.63
+
+- **Trade page**: TRADE opens a full page over the map, with BUY (factions, what they sell, your order and its quote) and ORDERS. [Guide →](../guide/comms.md#trade)
+- **Pirates and insurance**: a courier can be stopped on the way. Save it in time or pay the ransom, or it's stolen; insurance pays most of it back. [Guide →](../guide/comms.md#pirates-and-insurance)
+
 ## v0.62
 
 - **Buying by courier**: open a faction in COMMS and click **TRADE** to buy what its stations sell. A courier brings it to your delivery drop after a travel time. Friends and specialists sell cheaper, and trading builds reputation. [Guide →](../guide/comms.md#trade)
