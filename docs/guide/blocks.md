@@ -10,6 +10,8 @@ Three blocks bring the map into your base, and LCD apps put AETHER on any screen
 | AETHER Holo Table | The star map as a 3D hologram above the table, with labels and three rim screens. <kbd>F</kbd> on its front panel. |
 | AETHER Star Map Terminal | A small terminal. <kbd>F</kbd> opens the star map. |
 
+Small ships have their own versions (Command Module, small Command Console, Holo Projector, small Star Map Terminal) and a cockpit hologram: see [Small ships & holograms](./small-ships.md). The Holo Table's hologram settings and the consoles' screen pickers are on their own terminal pages.
+
 ## LCD apps
 
 On any screen of a grid with an AETHER block (or on a registered fleet ship), choose **Edit LCD → Content: Script** and pick one: Star Map, Satellite Status, Contacts, Alerts, Local Radar, Selected Object, Docking, Docking Steps.

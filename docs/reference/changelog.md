@@ -2,6 +2,14 @@
 
 The latest versions, newest first.
 
+## v0.57
+
+- **Small grid blocks**: the AETHER Command Module (1×1×1, no screens), a small Command Console (3×2×2 sloped dashboard with three screens), the AETHER Holo Projector (1×1×1, projects out of its marked face in any direction) and the small Star Map Terminal. The <kbd>G</kbd> menu **+** switches between large and small. [Guide →](../guide/small-ships.md)
+- **Cockpit hologram**: the star map as a flat disc over your dashboard, seated in first person, on any ship with an AETHER block. Toolbar actions for on/off and next view.
+- **Hologram views** for cockpits, tables and projectors: follow the map, solar system, nearest planet, or the **ground** around you (1.4 km) with contacts and GPS marks.
+- **Hologram settings** on the block's own terminal (size, height or position, brightness, names, reset), stored in Custom Data with a comment on every line. Consoles pick each screen's app from their terminal page too.
+- Fixed: cockpit settings (fleet asset, hologram) switching back off when the cockpit's Custom Data held other text, such as Ship Layout options.
+
 ## v0.56
 
 - **AETHER Viewer**: your ships and bases in 3D in your web browser, with the blocks' real models and paint, live while you play. Paint, systems and damage colours, X-ray, search, block details. Step through floors with the arrow keys, with walls up, a dollhouse cutaway or walls down; every key can be rebound. Turn it on with <kbd>F2</kbd> → AETHER → Display → **Export my grids**, then run **AETHER Viewer.bat** in `tools\viewer` (needs Python 3). [Guide →](../guide/viewer.md)

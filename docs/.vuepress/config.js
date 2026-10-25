@@ -45,6 +45,7 @@ export default defineUserConfig({
           '/guide/docking.md',
           '/guide/hangar.md',
           '/guide/blocks.md',
+          '/guide/small-ships.md',
         ],
       },
       { text: 'JARVIS', children: ['/jarvis/setup.md', '/jarvis/cheatsheet.md'] },
@@ -75,6 +76,7 @@ export default defineUserConfig({
             '/guide/docking.md',
             '/guide/hangar.md',
             '/guide/blocks.md',
+            '/guide/small-ships.md',
           ],
         },
         {
