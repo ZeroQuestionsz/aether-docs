@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.54
+
+- **Settings and key binds** with the optional Rich HUD Master mod: press <kbd>F2</kbd> → AETHER to change the minimap and this world's settings, and to rebind every map key. [Guide →](../guide/settings.md)
+- The map's background is darker, so bright surroundings no longer show through.
+
 ## v0.53
 
 - **Ship view**: press <kbd>S</kbd> on the map (or the new view tabs, bottom right) while aboard a ship or base: block by block, deck by deck, coloured by paint, damage or system; destroyed blocks stay as red ghosts. [Guide →](../guide/ship-view.md)

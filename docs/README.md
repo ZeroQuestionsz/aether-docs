@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.54
+Settings and rebindable keys in the Rich HUD terminal (<kbd>F2</kbd>), with the optional Rich HUD Master mod. [See the guide →](./guide/settings.md)
+:::
+
 ::: tip v0.53
 The Ship view and the Ship Layout LCD app: your ship or base deck by deck, with damage. [See the guide →](./guide/ship-view.md)
 :::
