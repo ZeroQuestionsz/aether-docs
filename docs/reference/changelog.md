@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.57.1
+
+- Fixed: the hologram's Ground view flickering to the planet view every few seconds.
+
 ## v0.57
 
 - **Small grid blocks**: the AETHER Command Module (1×1×1, no screens), a small Command Console (3×2×2 sloped dashboard with three screens), the AETHER Holo Projector (1×1×1, projects out of its marked face in any direction) and the small Star Map Terminal. The <kbd>G</kbd> menu **+** switches between large and small. [Guide →](../guide/small-ships.md)
