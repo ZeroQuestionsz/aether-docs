@@ -11,7 +11,6 @@ How AETHER recognises the parts of your builds. Names are matched without regard
 | Arm tip | `[AETHER Arm]` + `Home=` | The arm's home; written for you by <span class="say">this is the arm's home</span>. |
 | Piston | `door`, `hangar`, `gate`, `hatch` or `[AETHER Door]` | Moves a custom door panel. |
 | Piston door | `Open=extend` / `Open=retract` | Which end of its travel is open. |
-| Merge blocks | On the hangar door panel and its frame | An airtight door AETHER unseals and reseals. |
 | Air vent | `hangar`, or within 40 m of the door | Depressurized before the door opens, pressurized after it closes. |
 | Any upright block | `[AETHER Up]` | Decides which way is up for the whole station. |
 | Antenna | Terminal: **Satellite mode** | The grid becomes a satellite. |

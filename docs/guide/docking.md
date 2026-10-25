@@ -12,7 +12,7 @@ The last stretch is always a straight run along the connector's axis, through th
 
 Door blocks and hangar doors on the route open automatically. Doors AETHER opened close again as soon as the ship is through and nothing is in the doorway (the ship, other ships, an arm, people). A door that was already open stays open.
 
-**Custom piston doors**: name the piston with `door`, `hangar`, `gate` or `hatch` in it (for example `Hangar Door Piston 1`). Two pistons in a row move together. AETHER first tries the route with the door as it is, then with it moved to the other end of its travel. Put `Open=extend` or `Open=retract` under `[AETHER Door]` in the piston's Custom Data to say which end is open. Airtight doors are on the [Hangar arms](./hangar.md#airtight-hangars) page.
+**Custom piston doors**: name the piston with `door`, `hangar`, `gate` or `hatch` in it (for example `Hangar Door Piston 1`). Two pistons in a row move together. AETHER first tries the route with the door as it is, then with it moved to the other end of its travel. Put `Open=extend` or `Open=retract` under `[AETHER Door]` in the piston's Custom Data to say which end is open. More on hangar doors on the [Hangar arms](./hangar.md#hangar-doors) page.
 
 ## Which way is up
 

@@ -1,6 +1,6 @@
 # Hangar arms
 
-An arm of pistons and rotors that grips your drones, parks them on wall pads, fetches them back, and launches them through airtight doors.
+An arm of pistons and rotors that grips your drones, parks them on wall pads, fetches them back, and launches them through the hangar door. You can start every job from the star map's [fleet buttons](./fleet.md#from-the-map) too.
 
 <HangarDemo />
 
@@ -45,15 +45,11 @@ While the arm holds a drone or it sits on a pad, AETHER switches its thrusters a
 
 <span class="say">dock the cargo drone to the Hangar</span> at a station with a plate arm hands the drone to the arm: the arm reaches out towards the hangar door and opens it, the drone flies in nose-first and waits in front of the plate, the plate grips it and the arm brings it home. The door closes once the doorway is clear.
 
-## Airtight hangars <VersionBadge text="to confirm" kind="beta" />
+## Hangar doors <VersionBadge text="v0.59" />
 
-Put **merge blocks** on the hangar door panel and on the frame it closes against. When the door is shut they merge and seal it.
+A piston hangar door is a plain moving panel: AETHER opens it before the drone goes through and closes it behind. It isn't airtight, because the game only seals a room with blocks of one grid. For an airtight bay, use the game's own **Hangar Door** blocks, which AETHER opens and closes too.
 
-1. Before opening, AETHER depressurizes the hangar's air vents (vents with `hangar` in the name, or within 40 m) and waits up to 25 seconds for the air to go.
-2. It turns the merge blocks off and opens the door.
-3. When the door closes again, the merge blocks reseal it and the vents pressurize the hangar.
-
-AETHER remembers where each door panel sits when shut, so routes and arm moves see the door where it really closes.
+AETHER remembers where each door panel sits when shut, so routes and arm moves see the door where it really closes. If a door can't open (for example its panel has become part of the station), the job stops at once and tells you why.
 
 ## Launching
 

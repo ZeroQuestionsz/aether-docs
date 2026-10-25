@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.59
+
+- **Fleet buttons on the map**: select your station (or a ship) and your registered ships there get **DOCK...**, **UNDOCK**, **STORE**, **GRAB** and **RELEASE** buttons. You see AETHER's plan first, then **CONFIRM**. No JARVIS needed. [Guide →](../guide/fleet.md#from-the-map)
+- **Piston hangar doors are plain moving panels**: no more merge-block sealing or air handling, so nothing gets stuck sealed. For an airtight bay, use the game's own hangar door blocks.
+- A door that can't open now stops the job at once with the reason, and the status shows what the door is doing.
+
 ## v0.58.1
 
 - Hangar arm requests get the same checks as flights: the ship must allow JARVIS requests, the crew warning shows in the request and is checked again when you approve.
@@ -73,7 +79,7 @@ The latest versions, newest first.
 
 ## v0.47
 
-- **Airtight hangar doors**: merge blocks seal the door; AETHER depressurizes, unseals, opens, then reseals and pressurizes again.
+- **Airtight hangar doors**: merge blocks seal the door; AETHER depressurizes, unseals, opens, then reseals and pressurizes again. *(Removed in v0.59.)*
 - Faster hangar jobs: doors open while the arm is already moving.
 - **Ground view** and the minimap's **GROUND** mode: the terrain around you, filled in as you explore.
 - **Ground sensors**: you and your antennas detect grids without satellites; grids whose broadcast reaches you are contacts.

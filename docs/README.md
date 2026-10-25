@@ -16,9 +16,13 @@ features:
   - title: Ground view
     details: On a planet, the terrain around you as a 3D relief map that fills in as you explore, with your base standing on it block by block.
   - title: Hangar automation
-    details: A magnetic-plate arm docks, parks, swaps and launches drones through airtight hangar doors. Every move is checked before you approve it.
+    details: A magnetic-plate arm docks, parks, swaps and launches drones through hangar doors. Every move is checked before you approve it.
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
+
+::: tip v0.59
+Dock, undock and hangar-arm buttons for your fleet right on the star map: select your station, pick the action, check the plan, confirm. [See the guide →](./guide/fleet.md#from-the-map)
+:::
 
 ::: tip v0.58
 A new minimap (terrain radar near planets, a 3D disc in space, zoom keys), GPS marks with icons you choose, and antennas and beacons with icons and names. [See the guide →](./guide/minimap-and-hud.md)
