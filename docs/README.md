@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.55
+Airlocks from one air vent: press <kbd>F</kbd> on a door and AETHER cycles the air for you. [See the guide →](./guide/airlocks.md)
+:::
+
 ::: tip v0.54
 Settings and rebindable keys in the Rich HUD terminal (<kbd>F2</kbd>), with the optional Rich HUD Master mod. [See the guide →](./guide/settings.md)
 :::

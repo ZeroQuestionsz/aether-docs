@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.55
+
+- **Airlocks** from one air vent: tick **AETHER airlock** on the vent and press <kbd>F</kbd> on any door as usual. AETHER closes the other side, pumps the air out or in, then opens it. It never locks you in or out. [Guide →](../guide/airlocks.md)
+
 ## v0.54
 
 - **Settings and key binds** with the optional Rich HUD Master mod: press <kbd>F2</kbd> → AETHER to change the minimap and this world's settings, and to rebind every map key. [Guide →](../guide/settings.md)
