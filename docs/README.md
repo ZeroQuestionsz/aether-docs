@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.58
+A new minimap (terrain radar near planets, a 3D disc in space, zoom keys), GPS marks with icons you choose, and antennas and beacons with icons and names. [See the guide →](./guide/minimap-and-hud.md)
+:::
+
 ::: tip v0.57
 AETHER on small ships: a Command Module, a small console and the Holo Projector, plus the star map as a hologram in your cockpit, down to the ground around you. [See the guide →](./guide/small-ships.md)
 :::

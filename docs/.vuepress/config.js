@@ -33,6 +33,7 @@ export default defineUserConfig({
         text: 'AETHER',
         children: [
           '/guide/star-map.md',
+          '/guide/minimap-and-hud.md',
           '/guide/ground-view.md',
           '/guide/survival.md',
           '/guide/ship-view.md',
@@ -64,6 +65,7 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             '/guide/star-map.md',
+            '/guide/minimap-and-hud.md',
             '/guide/ground-view.md',
             '/guide/survival.md',
             '/guide/ship-view.md',

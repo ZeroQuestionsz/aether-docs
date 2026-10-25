@@ -10,6 +10,7 @@ How the minimap and its readout look. These are saved on this PC and apply to ev
 
 - **Minimap:** mode (Auto, Ground, Planet, Solar system, Off), size, planet range, background, and which markers it shows.
 - **Readout:** the text lines under the minimap.
+- **GPS icons:** on/off, size, names, hide beyond, off-screen marks, and antenna / beacon signals ([Minimap and HUD icons](./minimap-and-hud.md)).
 
 They're the same settings as the map's [ SETTINGS ] list; change either one and the other follows.
 
@@ -34,6 +35,7 @@ Every key the map uses can be rebound, and each action can have a second key. Yo
 | **Map view** | Coverage cones (<kbd>C</kbd>), Ship view (<kbd>S</kbd>), Ground view (<kbd>G</kbd>), closer / further view (<kbd>Up</kbd> / <kbd>Down</kbd>), previous / next planet (<kbd>Left</kbd> / <kbd>Right</kbd>), less / more detail (<kbd>[</kbd> / <kbd>]</kbd>), debug display (<kbd>`</kbd>), forget contact (<kbd>Delete</kbd>) |
 | **Ground view and planner** | Pan / slide (<kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>), back to you (<kbd>Home</kbd>), clear the plan (<kbd>Backspace</kbd>), plan step (<kbd>-</kbd> / <kbd>+</kbd>, numpad too) |
 | **Ship view** | Deck up / down (<kbd>Up</kbd> / <kbd>Down</kbd>, <kbd>PgUp</kbd> / <kbd>PgDn</kbd>), your deck (<kbd>Home</kbd>), all decks (<kbd>A</kbd>), x-ray (<kbd>X</kbd>), colours (<kbd>V</kbd>) |
+| **HUD** | GPS icon picker (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>), minimap previous mode (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>N</kbd>), minimap zoom in / out (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>+</kbd> / <kbd>-</kbd>) |
 
 The groups keep different contexts apart: <kbd>S</kbd> opens the Ship view on the map but pans back on the ground, and <kbd>Up</kbd> / <kbd>Down</kbd> change the view outside the Ship view but the deck inside it.
 

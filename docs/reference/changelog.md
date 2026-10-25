@@ -2,6 +2,15 @@
 
 The latest versions, newest first.
 
+## v0.58
+
+- **New minimap**: near a planet, a round radar with your heading up and the terrain you know (planet colours, hill shading, contour lines), a compass ring and a labelled range ring; in space, a 3D disc with planets, satellites and contacts standing above or below it. Contacts show as ship and station icons. [Guide →](../guide/minimap-and-hud.md)
+- **Minimap keys**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>N</kbd> for the previous mode, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>+</kbd> / <kbd>-</kbd> to zoom.
+- **GPS icons**: your GPS marks drawn with icons (about 110), grouped when they overlap, on the screen edge when off-screen. Look at a mark and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd> to choose its icon and colour.
+- **Antenna and beacon signals** with icons, names and distances, coloured by owner. Hide the game's own markers with <kbd>H</kbd>.
+- Fixed: lag building up over a long session when a world is reloaded many times.
+- More robust: an error in one operation now stops only that one and hands the controls back, and repeated errors no longer flood the log.
+
 ## v0.57.1
 
 - Fixed: the hologram's Ground view flickering to the planet view every few seconds.
