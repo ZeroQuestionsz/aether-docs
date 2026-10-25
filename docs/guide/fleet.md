@@ -21,7 +21,7 @@ Ships stop next to a ship they're sent to, and slow down and stop short of anyth
 
 ## From the map <VersionBadge text="v0.59" />
 
-Open the star map (<kbd>Ctrl</kbd>+<kbd>M</kbd>) and click your station, or a fleet ship that's flying. Under the info panel, **YOUR FLEET** lists your registered ships there, with where each one is and only the buttons that fit right now:
+Open the star map (<kbd>Ctrl</kbd>+<kbd>M</kbd>) and click your station, a fleet ship on the map, or one of the **SHIP** rows in the list on the left <VersionBadge text="v0.59.3" />. The list has all your registered ships, even ones no sensor sees. Under the info panel, **YOUR FLEET** lists your registered ships there, with where each one is and only the buttons that fit right now:
 
 | Button | When | What it does |
 |---|---|---|

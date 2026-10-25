@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.59.3
+
+- **Your fleet in the map list**: your registered ships are listed under the satellites with where each one is. Click one to select it even when no sensor sees it, and use its fleet buttons. [Guide →](../guide/fleet.md#from-the-map)
+
 ## v0.59.2
 
 - A dock or hangar-arm job that fails or is cancelled part-way closes the doors it opened again (unless something is in the doorway). [Guide →](../guide/docking.md#doors)

@@ -20,8 +20,8 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
-::: tip v0.59.2
-A cancelled or failed dock now closes the doors it opened. [See the guide →](./guide/docking.md#doors)
+::: tip v0.59.3
+Your registered ships are listed on the star map: click one for its dock, undock and arm buttons, wherever it is. [See the guide →](./guide/fleet.md#from-the-map)
 :::
 
 ::: tip v0.59
