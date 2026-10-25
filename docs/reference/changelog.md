@@ -2,6 +2,13 @@
 
 The latest versions, newest first.
 
+## v0.59.2
+
+- A dock or hangar-arm job that fails or is cancelled part-way closes the doors it opened again (unless something is in the doorway). [Guide →](../guide/docking.md#doors)
+- An arm with no saved home saves it only once you approve the job, not when it's planned.
+- A swap checks the second ship again when you approve (allowed, crew).
+- A ship climbing out of gravity before it stops gives up if it isn't gaining height, and brakes where it is.
+
 ## v0.59.1
 
 - **Timing readouts**: the map's debug display (<kbd>`</kbd>) shows how much time AETHER takes on the game thread, which parts take the most, and spikes such as planning a dock.
