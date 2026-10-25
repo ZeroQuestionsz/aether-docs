@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.60
+
+- **Air sirens**: a new block, large and small, that sounds by itself when a hostile heads for your base (or you), a hostile turret locks on, or a hostile comes close. Wail, attack or steady, three pitches, always looping. [Guide →](../guide/sirens.md)
+
 ## v0.59.4
 
 - **Every job from the map**: fleet buttons to move a ship (**MOVE...**), turn it (**TURN...**), move the port it's docked on (**PORT...**) and swap it with a parked ship (**SWAP...**), plus **SEND HOME** and **SET HOME HERE** for a station's hangar arm. [Guide →](../guide/fleet.md#from-the-map)
