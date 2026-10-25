@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.62
+
+- **Buying by courier**: open a faction in COMMS and click **TRADE** to buy what its stations sell. A courier brings it to your delivery drop after a travel time. Friends and specialists sell cheaper, and trading builds reputation. [Guide →](../guide/comms.md#trade)
+
 ## v0.61.2
 
 - Less wear on the big dark parts of the Air Siren and Comms Array, and no beacon flare over the dish.

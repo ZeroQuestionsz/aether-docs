@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.62
+Buy from NPC stations over COMMS and have it delivered by courier to your base. [See the guide →](./guide/comms.md#trade)
+:::
+
 ::: tip v0.61
 Faction comms: build a Comms Array and talk to the NPC factions in reach from the star map: tribute for reputation, ask friends for credits. The siren and the dish now look like worn metal (v0.61.1). [See the guide →](./guide/comms.md)
 :::

@@ -27,6 +27,27 @@ Every action shows its terms first. **CONFIRM** checks them again and does it; *
 Select an NPC ship or station on the map and click **[ HAIL ]** under its info to open its faction in COMMS.
 :::
 
+## Trade <VersionBadge text="v0.62" />
+
+Open a faction and click **[ TRADE ]**. You see what its stations in reach sell, from the game's own station stores: real stock and prices, most expensive first, at **your** price.
+
+1. **[ BUY ]** an item, then set how many: **-** / **+**, the step button (1, 10, 100, 1,000 or 10,000 a click) or **MAX** (as many as you can afford).
+2. **[ COURIER ]** shows the terms: the goods, the courier fee, how long it takes and where it's delivered.
+3. **[ CONFIRM ]** pays. The order shows under **DELIVERIES** at the top of COMMS until it arrives.
+
+| | |
+|---|---|
+| **Your price** | 10% off as a friend (over 500), 15% off over 1000. Another 10% off what the faction specialises in: miners' ores and ingots, builders' components, the military's weapons and ammo. |
+| **Courier** | 1,000 credits + 20 a km + 1 a kg. Traders run their own couriers: half price. |
+| **Travel time** | 2 minutes plus 6 seconds a km (about 12 minutes from 100 km). |
+| **Trust** | Every 10,000 credits of goods earns +1 reputation (up to +15 an order). Unlike tribute, trade can take you past 500, up to 1500. |
+
+Hostile factions won't trade with you.
+
+### Delivery drop
+
+Tick **AETHER delivery drop** in a cargo container's terminal: couriers unload there (the drop nearest to you when you order). With none marked, they use your nearest cargo container within 5 km, on a station first. If it doesn't all fit, the rest waits and arrives once there's room.
+
 ## What's next
 
-Trading (delivered by courier for a fee, or picked up for free at a station), jobs through the game's contracts, and calling for help are on the way.
+Pirates intercepting couriers (with a chance to save your order), insurance, a full trade page, jobs through the game's contracts, and calling for help.
