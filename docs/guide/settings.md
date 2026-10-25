@@ -39,4 +39,6 @@ Every key the map uses can be rebound, and each action can have a second key. Yo
 
 The groups keep different contexts apart: <kbd>S</kbd> opens the Ship view on the map but pans back on the ground, and <kbd>Up</kbd> / <kbd>Down</kbd> change the view outside the Ship view but the deck inside it.
 
+The debug display (<kbd>`</kbd> on the map) adds raw numbers, and since v0.59.1 a **TIMING** section: AETHER's total time on the game thread (milliseconds per second and the share of a 60 fps frame), its busiest parts with their longest single call, and one-off spikes such as planning a dock.
+
 Not rebindable: <kbd>Esc</kbd> (close the map), <kbd>Shift</kbd> (faster panning; <kbd>Shift</kbd> + forget contact forgets every stale one).

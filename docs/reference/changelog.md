@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.59.1
+
+- **Timing readouts**: the map's debug display (<kbd>`</kbd>) shows how much time AETHER takes on the game thread, which parts take the most, and spikes such as planning a dock.
+- Drawing is more robust: an error in one HUD part no longer hides the others.
+
 ## v0.59
 
 - **Fleet buttons on the map**: select your station (or a ship) and your registered ships there get **DOCK...**, **UNDOCK**, **STORE**, **GRAB** and **RELEASE** buttons. You see AETHER's plan first, then **CONFIRM**. No JARVIS needed. [Guide →](../guide/fleet.md#from-the-map)
