@@ -2,6 +2,8 @@
 
 An air-raid siren that sounds by itself when AETHER sees danger coming. Build an **AETHER Air Siren** (large or small grid, in the AETHER tab of the <kbd>G</kbd> menu), power it, and it's armed.
 
+It's a two-tone rotor siren that stands on its base plate. While AETHER sounds it, the rotor winds up and spins behind the ports and the light on top flashes red. When it stops, the rotor winds down and the light goes back to green. <VersionBadge text="v0.61" />
+
 ## When it sounds
 
 Every check uses AETHER's own contacts: the hostiles your satellites, antennas and sensors detect.

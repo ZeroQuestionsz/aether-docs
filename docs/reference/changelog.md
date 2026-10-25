@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.61
+
+- **Faction comms**: a new block, the **AETHER Comms Array**, reaches NPC factions with a station or ship within its broadcast radius (up to 200 km). Talk to them from the star map's **COMMS** panel: pay tribute for reputation, or ask a friendly faction for credits. [Guide →](../guide/comms.md)
+- **Real models**: the Air Siren is now a two-tone rotor siren whose rotor spins up and whose light flashes while it sounds; the Comms Array is a dish on a turntable. [Guide →](../guide/sirens.md)
+
 ## v0.60
 
 - **Air sirens**: a new block, large and small, that sounds by itself when a hostile heads for your base (or you), a hostile turret locks on, or a hostile comes close. Wail, attack or steady, three pitches, always looping. [Guide →](../guide/sirens.md)

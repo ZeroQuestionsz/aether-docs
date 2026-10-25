@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.61
+Faction comms: build a Comms Array and talk to the NPC factions in reach from the star map: tribute for reputation, ask friends for credits. [See the guide →](./guide/comms.md)
+:::
+
 ::: tip v0.60
 Air sirens: build one and it wails by itself when a hostile heads your way or locks on. [See the guide →](./guide/sirens.md)
 :::
