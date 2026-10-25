@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.61.2
+
+- Less wear on the big dark parts of the Air Siren and Comms Array, and no beacon flare over the dish.
+
 ## v0.61.1
 
 - The Air Siren and Comms Array look like worn metal instead of plastic: scratched paint, bare metal axles, struts and rotor vanes.
