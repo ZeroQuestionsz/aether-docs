@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.61.1
+
+- The Air Siren and Comms Array look like worn metal instead of plastic: scratched paint, bare metal axles, struts and rotor vanes.
+
 ## v0.61
 
 - **Faction comms**: a new block, the **AETHER Comms Array**, reaches NPC factions with a station or ship within its broadcast radius (up to 200 km). Talk to them from the star map's **COMMS** panel: pay tribute for reputation, or ask a friendly faction for credits. [Guide →](../guide/comms.md)

@@ -21,7 +21,7 @@ footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Tex
 ---
 
 ::: tip v0.61
-Faction comms: build a Comms Array and talk to the NPC factions in reach from the star map: tribute for reputation, ask friends for credits. [See the guide →](./guide/comms.md)
+Faction comms: build a Comms Array and talk to the NPC factions in reach from the star map: tribute for reputation, ask friends for credits. The siren and the dish now look like worn metal (v0.61.1). [See the guide →](./guide/comms.md)
 :::
 
 ::: tip v0.60

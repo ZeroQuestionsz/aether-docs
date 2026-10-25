@@ -4,7 +4,7 @@ Talk to the NPC factions around you from the star map. You need a physical link 
 
 ## The Comms Array
 
-Build it from the AETHER tab of the <kbd>G</kbd> menu (large or small grid, 3x3x3). It's a dish on a turntable that stands on its bottom face, the dish towards the block's front.
+Build it from the AETHER tab of the <kbd>G</kbd> menu (large or small grid, 3x3x3). It's a worn-metal dish on a turntable that stands on its bottom face, the dish towards the block's front. Paint colours it like any block.
 
 - Its **broadcast radius** is its reach: up to **200 km** on large grid, **50 km** on small.
 - Power grows with the reach: up to 5 MW at 200 km (1.2 MW for the small one at 50 km).
