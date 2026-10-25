@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.56
+The AETHER Viewer: your ships and bases in 3D in your browser, with their real models, floor by floor with a dollhouse cutaway. [See the guide →](./guide/viewer.md)
+:::
+
 ::: tip v0.55
 Airlocks from one air vent: press <kbd>F</kbd> on a door and AETHER cycles the air for you. [See the guide →](./guide/airlocks.md)
 :::

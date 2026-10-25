@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.56
+
+- **AETHER Viewer**: your ships and bases in 3D in your web browser, with the blocks' real models and paint, live while you play. Paint, systems and damage colours, X-ray, search, block details. Step through floors with the arrow keys, with walls up, a dollhouse cutaway or walls down; every key can be rebound. Turn it on with <kbd>F2</kbd> → AETHER → Display → **Export my grids**, then run **AETHER Viewer.bat** in `tools\viewer` (needs Python 3). [Guide →](../guide/viewer.md)
+
 ## v0.55
 
 - **Airlocks** from one air vent: tick **AETHER airlock** on the vent and press <kbd>F</kbd> on any door as usual. AETHER closes the other side, pumps the air out or in, then opens it. It never locks you in or out. [Guide →](../guide/airlocks.md)
