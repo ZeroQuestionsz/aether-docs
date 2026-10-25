@@ -20,8 +20,8 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
-::: tip v0.59.3
-Your registered ships are listed on the star map: click one for its dock, undock and arm buttons, wherever it is. [See the guide →](./guide/fleet.md#from-the-map)
+::: tip v0.59.4
+Every job from the star map: move, turn, dock, undock, port moves, hangar arm store, grab, swap and home, each planned first, then confirmed. [See the guide →](./guide/fleet.md#from-the-map)
 :::
 
 ::: tip v0.59

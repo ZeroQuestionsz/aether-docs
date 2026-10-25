@@ -30,7 +30,15 @@ Open the star map (<kbd>Ctrl</kbd>+<kbd>M</kbd>) and click your station, a fleet
 | **STORE** | On an arm | The arm parks it on a free pad. |
 | **GRAB** | On a parking pad | The arm fetches it. |
 | **RELEASE** | Held by a plate arm | The plate lets go. |
+| **MOVE...** | The ship is free | Forward, back, up, down, left or right (as its cockpit faces), or **NEXT TO ME**. <VersionBadge text="v0.59.4" /> |
+| **TURN...** | The ship is free | Left, right, nose up or down, roll, **AROUND**, or **FACE ME**. It turns in place. |
+| **PORT...** | On a movable port | Moves the port with the ship on it: a direction (the station's), to the ground, top or centre, or a quarter turn. |
+| **SWAP...** | On an arm, another ship parked there | Stores this one and fetches the one you pick. |
 | **CANCEL** | Running a job | Stops it. |
+
+The gold button at the start of a MOVE, TURN or PORT row sets how far one press goes: click it to step through 25 m to 2 km, 15 to 90 degrees, or 0.5 to 5 m.
+
+A station with a hangar arm also gets a **Hangar arm** row: **SEND HOME** moves the empty arm home, **SET HOME HERE** makes where it is now its home.
 
 Clicking a button doesn't move anything yet. AETHER plans the whole job, with the same checks as a JARVIS request, and shows you what will happen, including a crew warning if you're aboard. Click **CONFIRM** to start it, or **BACK**. If it can't be done, it says why.
 

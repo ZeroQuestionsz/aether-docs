@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.59.4
+
+- **Every job from the map**: fleet buttons to move a ship (**MOVE...**), turn it (**TURN...**), move the port it's docked on (**PORT...**) and swap it with a parked ship (**SWAP...**), plus **SEND HOME** and **SET HOME HERE** for a station's hangar arm. [Guide →](../guide/fleet.md#from-the-map)
+
 ## v0.59.3
 
 - **Your fleet in the map list**: your registered ships are listed under the satellites with where each one is. Click one to select it even when no sensor sees it, and use its fleet buttons. [Guide →](../guide/fleet.md#from-the-map)
