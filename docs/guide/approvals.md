@@ -28,7 +28,7 @@ You can also approve, deny and cancel from the OPERATIONS console on the star ma
 
 ## Crew safety
 
-If you're standing aboard or close to a ship (within 30 m), the request carries a **CREW WARNING** and AETHER checks again when you approve. Sitting in any seat counts as safe. If you get up from a seat during a move, the move pauses. A ship can be set to refuse moves with crew at risk entirely.
+If you're standing aboard or close to a ship (within 30 m), the request carries a **CREW WARNING** and AETHER checks again when you approve. Sitting in any seat counts as safe. If you get up from a seat during a move, the move pauses. A ship can be set to refuse moves with crew at risk entirely. Hangar arm jobs get the same check for the ship they carry, and that ship must have **Allow JARVIS requests** ticked too.
 
 ::: tip Good to know
 Refused and failed requests are written to the game log as well as the chat, so `tools/check_log.py` can show you why something didn't start.

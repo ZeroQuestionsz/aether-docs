@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.58.1
+
+- Hangar arm requests get the same checks as flights: the ship must allow JARVIS requests, the crew warning shows in the request and is checked again when you approve.
+- A drive request asks again if the crew situation changed before you approved, instead of refusing.
+- Turning or docking a ship that's held (docked or landing gear locked) is refused with the reason; arm jobs and port moves are refused while you're flying the ship.
+
 ## v0.58
 
 - **New minimap**: near a planet, a round radar with your heading up and the terrain you know (planet colours, hill shading, contour lines), a compass ring and a labelled range ring; in space, a 3D disc with planets, satellites and contacts standing above or below it. Contacts show as ship and station icons. [Guide →](../guide/minimap-and-hud.md)
