@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.66
+Factions now post AETHER's own jobs: clear raiders near their stations or set up relays, paid in credits, reputation and goods. [See the guide →](./guide/comms.md#aether-s-own-jobs)
+:::
+
 ::: tip v0.65
 Take the game's contracts over the comms link: the trade page has a JOBS tab. [See the guide →](./guide/comms.md#jobs)
 :::

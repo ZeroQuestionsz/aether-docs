@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.66
+
+- **AETHER's own jobs**: factions post jobs on their stations' boards: clear pirate raiders near a station, or set up a relay beacon at a marked spot. Paid from the faction's funds in credits, reputation and sometimes goods brought by courier. [Guide →](../guide/comms.md#aether-s-own-jobs)
+
 ## v0.65
 
 - **Jobs**: the game's own contracts at every station your Comms Arrays reach, on a new JOBS tab. Jobs out in the world start at once; ones that start at a station are booked and begin when you get there. The game's pay, deposits and time limits. [Guide →](../guide/comms.md#jobs)

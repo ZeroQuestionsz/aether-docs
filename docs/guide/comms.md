@@ -90,6 +90,21 @@ With AETHER's debug display on (\` on the map), `/aether courier arrive` brings 
 
 **YOUR JOBS**, bottom right, shows booked and running jobs with the time left, and whether they were done or failed. You get an alert when a job starts, is done or fails.
 
+### AETHER's own jobs <VersionBadge text="v0.66" />
+
+Factions also post AETHER's own jobs on their stations' boards, shown in teal among the game's contracts. Each station keeps up to 2 up (a new one maybe every 10 minutes, each up for about 2 hours); you can do 3 at a time.
+
+| Job | What to do | Pays | Needs |
+|---|---|---|---|
+| **Clear raiders** | 1-3 pirate drones 6-20 km from the station. Accept and a red GPS marker shows where; they appear when you're within 12 km of it. Destroy their guns. Fly off past 30 km and they wait for you. The wrecks are yours. | 1 drone about 120,000 and +20 reputation, 2 about 280,000 and +40, 3 about 550,000 and +75 | -500 / 0 / +250 reputation; 60 / 75 / 90 minutes |
+| **Set up a relay** | Have a working beacon or antenna of yours within 1 km of a cyan GPS marker 15-50 km from the station (on the ground on a planet), and be there. It stays yours. | 40,000 + 1,000 a km, +15 reputation | 2 hours |
+
+The faction pays from its own funds (it only posts what it can pay); reputation from jobs stops at 1500, as with trade. Often part of the pay is **goods** of the faction's own kind (miners ore and ingots, builders components, military ammo), worth a quarter more than the credits they replace: a free courier brings them like an order, with no pirates (ORDERS: "job pay"). Failing (the time runs out, or **[ ABANDON ]** under YOUR JOBS) costs reputation.
+
+::: tip Testing
+With the debug display on, `/aether job raiders` or `/aether job relay` posts one at the nearest station in reach, and `/aether job here` moves your newest AETHER job's marker 2 km from you.
+:::
+
 ## What's next
 
-AETHER's own jobs from factions, then calling for help.
+Calling for help: military aid.
