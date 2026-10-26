@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.64
+Couriers now fly your order down in a real crate, pirates have to be fought off, and the trade page has a cart. [See the guide →](./guide/comms.md#delivery)
+:::
+
 ::: tip v0.63
 Trading has its own page now, and pirates can go after your couriers: save your order in time, or insure it. [See the guide →](./guide/comms.md#pirates-and-insurance)
 :::

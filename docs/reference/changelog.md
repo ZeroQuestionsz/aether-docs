@@ -2,6 +2,14 @@
 
 The latest versions, newest first.
 
+## v0.64
+
+- **Couriers you can see**: within 8 km of the drop, a courier ship comes down with a crate of cargo containers sized to your order, sets it on an open spot (planets and space) and flies off. The crate is yours. [Guide →](../guide/comms.md#delivery)
+- **Pick the drop**: beside your delivery drop, near you, or a GPS marker.
+- **Fight the pirates**: an intercepted courier is held by real pirate drones. Fly there and destroy their guns, or pay the ransom. [Guide →](../guide/comms.md#pirates-and-insurance)
+- **Cart**: each faction has its own cart in the bottom right of the trade page; one courier brings it all. [Guide →](../guide/comms.md#trade)
+- Trade page fixes: the map underneath stays still, no more bobbing buttons, items grouped by station.
+
 ## v0.63
 
 - **Trade page**: TRADE opens a full page over the map, with BUY (factions, what they sell, your order and its quote) and ORDERS. [Guide →](../guide/comms.md#trade)

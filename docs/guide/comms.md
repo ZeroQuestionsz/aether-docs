@@ -34,8 +34,10 @@ Open a faction and click **[ TRADE ]**: the trade page opens over the map <Versi
 The **BUY** tab has three columns:
 
 1. **Factions in reach**, with your reputation and how far. Click one.
-2. **For sale**: what its stations in reach sell, from the game's own station stores: real stock and prices, most expensive first, at **your** price. Click an item.
-3. **Order**: set how many with **-** / **+**, the step button (1, 10, 100, 1,000 or 10,000 a click) or **MAX** (as many as you can afford and fit in the drop), and turn insurance on or off. The quote shows the goods, courier fee, pirate risk, insurance, total, and when and where it arrives. **[ CONFIRM ORDER ]** pays.
+2. **For sale**: what its stations in reach sell, from the game's own station stores: real stock and prices at **your** price. The same item at different stations sits together, cheapest first. Click an item.
+3. **Item and cart**: set how many with **-** / **+**, the step button (1, 10, 100, 1,000 or 10,000 a click) or **MAX** (as many as you can afford and one courier carries), then **[ ADD TO CART ]**.
+
+The **cart** <VersionBadge text="v0.64" /> is always in the bottom right. Each faction has its own, and you see the one for the faction you've picked. It holds up to 8 items, all brought by one courier in one crate for one fee (counted from the farthest of the stations). Below it: insurance on or off, **[ DROP ]** (where the crate goes: beside your delivery drop, near you, or one of your GPS markers), the live quote (goods, courier fee, the crate, pirate risk, insurance, total, when and where it arrives) and **[ ORDER CART ]**, which pays.
 
 The **ORDERS** tab lists your orders and where each one is. DELIVERIES at the top of COMMS shows the latest few.
 
@@ -48,9 +50,17 @@ The **ORDERS** tab lists your orders and where each one is. DELIVERIES at the to
 
 Hostile factions won't trade with you.
 
-### Delivery drop
+### Delivery <VersionBadge text="v0.64" />
 
-Tick **AETHER delivery drop** in a cargo container's terminal: couriers unload there (the drop nearest to you when you order). With none marked, they use your nearest cargo container within 5 km, on a station first. If it doesn't all fit, the rest waits and arrives once there's room.
+The courier waits at the drop until you're within 8 km of it. Then it comes down from 1.5 km with a crate on its magnetic plate, lowers the crate onto an open, flat spot and flies off. The spot can be the ground or a roof; in space it's clear space beside your ship or base, away from asteroids. A gold **AETHER cargo** GPS marker shows the crate until you've been to it or emptied it.
+
+| | |
+|---|---|
+| **Courier** | The game's Consignment Drone (one small-grid container, on its nose) or Builder Hauler (bigger crates, under its belly), in the seller's colours. It can't be damaged. |
+| **Crate** | Cargo containers end to end, sized to the order: one Medium container, one Modular (Contact DLC) or Large container, then 1-4 large-grid Small Cargo Containers, then 1-4 Bulk (Economy DLC) or Large ones. It's yours: the quote charges for the containers. It lands static, never touching blocks of its own grid size (it would merge into them). |
+| **Drop** | **Beside your delivery drop**: tick **AETHER delivery drop** in a cargo container's terminal (with none marked: your nearest container within 5 km). **Near you**, or **one of your GPS markers**. |
+
+If it can't come down, ORDERS says why (no flat spot, no clear space) and it keeps trying.
 
 ### Pirates and insurance <VersionBadge text="v0.63" />
 
@@ -59,10 +69,14 @@ Pirates may stop a courier late in its trip. The quote shows the chance before y
 | | |
 |---|---|
 | **Risk** | 2% plus 0.15% a km, +5% for every hostile AETHER sees near the route (up to +15%). Higher for cargo worth over 500,000, lower under 20,000, halved for military couriers. At most 45%. |
-| **Saving it** | You get an alert, a red **Courier under attack** GPS marker and a timer (2.5 minutes plus the time to fly there). Get within 3 km of the marker, or **[ PAY RANSOM ]** on ORDERS (35% of the goods). The courier goes on, a minute late. |
+| **Saving it** | You get an alert, a red **Courier under attack** GPS marker where the courier is on its route, and a timer (2.5 minutes plus the time to fly there). Within 12 km of it the held courier and 1-3 pirate drones (the game's Bandit, Scimitar and Shakedown Drone; more for richer cargo) appear and fight on their own AI, and you get 10 more minutes <VersionBadge text="v0.64" />. Destroy their guns, or **[ PAY RANSOM ]** on ORDERS (35% of the goods). The courier goes on, a minute late. Fly off past 30 km and they leave. |
 | **Stolen** | If the timer runs out, the cargo is gone. |
 | **Insurance** | On by default. Costs 2% of the goods plus 0.8 × the risk (10% risk: 10% of the goods); pays back 90% of the goods if it's stolen. |
 
+::: tip Testing
+With AETHER's debug display on (\` on the map), `/aether courier arrive` brings your latest order now, and `/aether courier pirates` (or `fight`) has pirates stop it where it is.
+:::
+
 ## What's next
 
-A courier drone you can see delivering, fighting off the pirates yourself, choosing where cargo is dropped, jobs through the game's contracts, and calling for help.
+Jobs through the game's contracts, then calling for help.
