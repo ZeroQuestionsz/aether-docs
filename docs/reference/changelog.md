@@ -2,6 +2,10 @@
 
 The latest versions, newest first.
 
+## v0.65
+
+- **Jobs**: the game's own contracts at every station your Comms Arrays reach, on a new JOBS tab. Jobs out in the world start at once; ones that start at a station are booked and begin when you get there. The game's pay, deposits and time limits. [Guide →](../guide/comms.md#jobs)
+
 ## v0.64
 
 - **Couriers you can see**: within 8 km of the drop, a courier ship comes down with a crate of cargo containers sized to your order, sets it on an open spot (planets and space) and flies off. The crate is yours. [Guide →](../guide/comms.md#delivery)

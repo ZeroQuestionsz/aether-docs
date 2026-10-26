@@ -77,6 +77,19 @@ Pirates may stop a courier late in its trip. The quote shows the chance before y
 With AETHER's debug display on (\` on the map), `/aether courier arrive` brings your latest order now, and `/aether courier pirates` (or `fight`) has pirates stop it where it is.
 :::
 
+## Jobs <VersionBadge text="v0.65" />
+
+**[ JOBS ]** on a faction in COMMS (or the JOBS tab on the trade page) lists the game's own contracts at that faction's stations in reach: the same ones their contracts blocks offer, with the game's pay, deposits, reputation and time limits. Pick one to see what to do, where it ends, what failing costs and, for a run between stations, the average speed its time limit needs.
+
+| | |
+|---|---|
+| **Out in the world** | Search, salvage, repair, bounties, supply runs: **[ ACCEPT ]** takes the job now. The game takes the deposit, starts the clock and adds its GPS markers. |
+| **Starting at a station** | Package deliveries, ship hauls, escorts: **[ BOOK ]** puts a blue **AETHER job** GPS marker on the station. The game accepts the job when you're within 3 km of it, so the deposit, the package and the clock start there, as at its contracts block. Up to 3 booked; **[ CANCEL ]** one under YOUR JOBS. |
+| **Reputation** | Each kind of job needs the reputation a contracts block asks for (high-risk deliveries and big ship hauls +500, others less). |
+| **Handing in** | As in the game: at the end station's contracts block, at the wreck, or by destroying the target. A running job is abandoned at any contracts block. |
+
+**YOUR JOBS**, bottom right, shows booked and running jobs with the time left, and whether they were done or failed. You get an alert when a job starts, is done or fails.
+
 ## What's next
 
-Jobs through the game's contracts, then calling for help.
+AETHER's own jobs from factions, then calling for help.

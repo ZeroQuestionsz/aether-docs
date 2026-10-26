@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.65
+Take the game's contracts over the comms link: the trade page has a JOBS tab. [See the guide →](./guide/comms.md#jobs)
+:::
+
 ::: tip v0.64
 Couriers now fly your order down in a real crate, pirates have to be fought off, and the trade page has a cart. [See the guide →](./guide/comms.md#delivery)
 :::
