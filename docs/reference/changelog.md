@@ -2,6 +2,13 @@
 
 The latest versions, newest first.
 
+## v0.68
+
+- **ENGAGEMENT**: a live view of the fight, opened from a new button after COMMS. Every raider and aid ship within 10 km on a tilted grid, with hull, target, trails and firing rays. [Guide →](../guide/comms.md#engagement)
+- **Contact colours**: UDIN stations, couriers and aid no longer show red or raise HOSTILE and INBOUND alerts.
+- **Stationary objects**: stations and beacons no longer say they're heading towards you.
+- Everything marked untested in v0.67 is now confirmed: raider jobs, courier interception and fights in space all work.
+
 ## v0.67
 
 - **Military aid**: pay a faction to send a patrol, squadron or gunship to fight beside you. [Guide →](../guide/comms.md#military-aid)

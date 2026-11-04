@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.68
+Watch fights live on the new ENGAGEMENT page, and friendly contacts stay friendly. [See the guide →](./guide/comms.md#engagement)
+:::
+
 ::: tip v0.67
 Call military aid, sell goods by courier, and watch ships really fight. [See the guide →](./guide/comms.md#military-aid)
 :::

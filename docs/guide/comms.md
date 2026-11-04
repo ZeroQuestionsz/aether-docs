@@ -147,6 +147,16 @@ AETHER flies raiders and aid itself. They circle their target about 320 m out wi
 
 Raiders and aid show on your HUD from up to 6 km.
 
+### ENGAGEMENT <VersionBadge text="v0.68" />
+
+**ENGAGEMENT**, after COMMS on the map, opens a live view of the fight. The button reads **ENGAGEMENT: LIVE** while pirates are fighting within 5 km of you, and a notice tells you when a fight starts.
+
+- **Cards** down the side show up to 6 ships with their hull and target.
+- **The battle** shows every raider and aid ship within 10 km on a tilted grid, with trails, firing rays, you, and the reach of armed bases. Drag to turn it, wheel to zoom.
+- **Labels** stay by their ship. Ships almost on top of each other share one stacked label.
+
+Turrets choose their own targets, so one ship can fire at two things at once.
+
 ::: tip Testing
 With the debug display on: `/aether aid now` brings called aid at once, `/aether aid pirates` spawns test pirates, `/aether aid where` lists each ship and what it's doing, `/aether aid clear` removes them, `/aether aid reset` sends aid home and clears the cooldowns.
 :::
