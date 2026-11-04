@@ -77,6 +77,19 @@ Pirates may stop a courier late in its trip. The quote shows the chance before y
 With AETHER's debug display on (\` on the map), `/aether courier arrive` brings your latest order now, and `/aether courier pirates` (or `fight`) has pirates stop it where it is.
 :::
 
+### Selling <VersionBadge text="v0.67" />
+
+The **SELL** tab shows what a faction's stations in reach want and what they pay, from the game's own store orders.
+
+| | |
+|---|---|
+| **Price** | The station's, +5% as a friend, +10% as a close friend. One item per sale. |
+| **Goods** | In the cargo containers on your delivery drop's grid (with no drop marked: your nearest container). |
+| **Courier** | Comes to the drop and, when you're within 8 km, loads what's there, up to what you sold. You're paid for what it took, when it reaches the station. |
+| **Cost** | The same courier fee as buying and any insurance, both taken off the pay: you need no credits to sell. |
+| **Pirates** | Can stop it on the way back, as when buying. A ransom comes off the pay; insurance pays back 90% of the goods, less its premium. |
+| **Trust** | +1 reputation for every 10,000 credits of goods, up to +15 a sale. |
+
 ## Jobs <VersionBadge text="v0.65" />
 
 **[ JOBS ]** on a faction in COMMS (or the JOBS tab on the trade page) lists the game's own contracts at that faction's stations in reach: the same ones their contracts blocks offer, with the game's pay, deposits, reputation and time limits. Pick one to see what to do, where it ends, what failing costs and, for a run between stations, the average speed its time limit needs.
@@ -105,6 +118,35 @@ The faction pays from its own funds (it only posts what it can pay); reputation 
 With the debug display on, `/aether job raiders` or `/aether job relay` posts one at the nearest station in reach, and `/aether job here` moves your newest AETHER job's marker 2 km from you.
 :::
 
-## What's next
+## Military aid <VersionBadge text="v0.67" />
 
-Calling for help: military aid.
+**AID** on a faction's row in COMMS sends ships to fight beside you. Pay up front, then **CONFIRM**.
+
+| Call | Price | Ships | On duty | Military faction needs |
+|---|---|---|---|---|
+| **PATROL** | 80,000 | 2 drones | 10 min | 0 reputation |
+| **SQUADRON** | 220,000 | 4 drones | 15 min | +250 |
+| **GUNSHIP** | 500,000 | A gunship and 2 drones (5 drones on a planet) | 20 min | +500 |
+
+- Other factions send only a patrol, only as friends, at 1.5 times the price. Friends pay 10% less, close friends 20% less.
+- They come from the faction's nearest station in reach: 1 minute plus 3 seconds a km, at most 8 minutes. They appear about 2 km off, on the far side of any pirates near you.
+- One call at a time, and a faction answers again 45 minutes after you last called it.
+- **SEND HOME** on the AID line at the top of COMMS ends it, with no refund. If no ship ever reached you when their time runs out, you get your money back.
+- Ships lost cost nothing more. Wrecks are towed away when the aid ends.
+- A faction that sends aid is at war with the pirates from then on.
+- Ion drones in space, hydrogen ships on a planet. Go down with ion ships on duty and nothing hostile near you, and hydrogen ones replace them.
+
+### How the ships fight
+
+AETHER flies raiders and aid itself. They circle their target about 320 m out with their noses on it, firing fixed guns when they bear; turrets find their own targets.
+
+- **Hit**: a ship turns on its attacker for 20 seconds and weaves for 5.
+- **Hurt**: pirates fall back for 15 seconds at 75%, 45% and 15% hull, or when they lose a gun.
+- **Your base**: pirates keep out of reach of armed bases (2 or more guns, or any base that has hit them). If you're inside one they circle the edge and make attack runs now and then.
+- **No working guns**: the ship powers down and drops. Its beacon and antennas go off, so its blip goes too.
+
+Raiders and aid show on your HUD from up to 6 km.
+
+::: tip Testing
+With the debug display on: `/aether aid now` brings called aid at once, `/aether aid pirates` spawns test pirates, `/aether aid where` lists each ship and what it's doing, `/aether aid clear` removes them, `/aether aid reset` sends aid home and clears the cooldowns.
+:::

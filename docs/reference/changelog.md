@@ -2,6 +2,14 @@
 
 The latest versions, newest first.
 
+## v0.67
+
+- **Military aid**: pay a faction to send a patrol, squadron or gunship to fight beside you. [Guide →](../guide/comms.md#military-aid)
+- **Selling by courier**: a SELL tab on the trade page. A courier collects from your containers and you're paid when it reaches the station; no credits needed. [Guide →](../guide/comms.md#selling)
+- **Ships that really fight**: AETHER now flies raiders and aid itself. They circle and shoot, turn on whoever hits them, and pirates fall back when hurt and keep away from armed bases. [Guide →](../guide/comms.md#how-the-ships-fight)
+- **Planetside ships**: hydrogen couriers, raiders and aid on planets; ion aid swaps for hydrogen when you go down.
+- Not yet tested with the new flying: courier interception, raider jobs, anything in space. Pirate turrets lock on inconsistently.
+
 ## v0.66
 
 - **AETHER's own jobs**: factions post jobs on their stations' boards: clear pirate raiders near a station, or set up a relay beacon at a marked spot. Paid from the faction's funds in credits, reputation and sometimes goods brought by courier. [Guide →](../guide/comms.md#aether-s-own-jobs)

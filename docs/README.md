@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.67
+Call military aid, sell goods by courier, and watch ships really fight. [See the guide →](./guide/comms.md#military-aid)
+:::
+
 ::: tip v0.66
 Factions now post AETHER's own jobs: clear raiders near their stations or set up relays, paid in credits, reputation and goods. [See the guide →](./guide/comms.md#aether-s-own-jobs)
 :::
