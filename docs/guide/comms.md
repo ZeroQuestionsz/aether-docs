@@ -147,13 +147,16 @@ AETHER flies raiders and aid itself. They circle their target about 320 m out wi
 
 Raiders and aid show on your HUD from up to 6 km.
 
-### ENGAGEMENT <VersionBadge text="v0.68" />
+### ENGAGEMENT <VersionBadge text="v0.69" />
 
 **ENGAGEMENT**, after COMMS on the map, opens a live view of the fight. The button reads **ENGAGEMENT: LIVE** while pirates are fighting within 5 km of you, and a notice tells you when a fight starts.
 
-- **Cards** down the side show up to 6 ships with their hull and target.
+- **Cards** down the side show up to 8 ships, as many as fit, with a wireframe, hull and target.
 - **The battle** shows every raider and aid ship within 10 km on a tilted grid, with trails, firing rays, you, and the reach of armed bases. Drag to turn it, wheel to zoom.
 - **Labels** stay by their ship. Ships almost on top of each other share one stacked label.
+- **The event log** lists ships joining, targets, hits, lost guns, falling back, attack runs and ships disabled.
+- **The hull chart** shows each side's hull over the fight, as a share of the most ships that side has had at once.
+- **Click a card or a ship** for its larger wireframe, its target and last hit, and bars for hull, power, thrust and weapons. Amber blocks are damaged, red badly damaged, and a faint ghost marks blocks that are gone. Click it again or **[ X ]** to close.
 
 Turrets choose their own targets, so one ship can fire at two things at once.
 

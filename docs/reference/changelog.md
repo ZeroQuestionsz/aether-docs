@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.69
+
+- **ENGAGEMENT, finished**: an event log and a chart of each side's hull follow the fight. Ship cards show wireframes of the real ships. [Guide →](../guide/comms.md#engagement)
+- **Selected ship**: click a card or a ship for a larger wireframe coloured by damage, who last hit it, and what's left of its hull, power, thrust and weapons.
+- Not yet seen in game: the sharper lines and the taller chart.
+
 ## v0.68
 
 - **ENGAGEMENT**: a live view of the fight, opened from a new button after COMMS. Every raider and aid ship within 10 km on a tilted grid, with hull, target, trails and firing rays. [Guide →](../guide/comms.md#engagement)
