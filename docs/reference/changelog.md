@@ -2,6 +2,13 @@
 
 The latest versions, newest first.
 
+## v0.70
+
+- **Sound that travels**: you see a blast 2 km off nearly six seconds before you hear it, and there's no sound without air. [Guide →](../guide/battles.md#sound)
+- **Heavier blasts**: a low layer under the game's explosions, a tight thump for small and a long rumble for big.
+- **Battle effects**: tracers, flashes, shockwaves, embers, burning ships and a shake from blasts, for any fight near you. [Guide →](../guide/battles.md)
+- Not yet seen in game: a fight with the final low layers.
+
 ## v0.69
 
 - **ENGAGEMENT, finished**: an event log and a chart of each side's hull follow the fight. Ship cards show wireframes of the real ships. [Guide →](../guide/comms.md#engagement)

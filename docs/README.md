@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.70
+Fights now have effects and sound that travels: see a far blast first, hear it seconds later. [See the guide →](./guide/battles.md)
+:::
+
 ::: tip v0.69
 ENGAGEMENT now has an event log, a hull chart and a damage view of any ship you click. [See the guide →](./guide/comms.md#engagement)
 :::

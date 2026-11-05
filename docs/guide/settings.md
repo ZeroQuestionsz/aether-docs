@@ -8,6 +8,7 @@ Rich HUD is optional. Without it, the keys are the defaults below and the settin
 
 How the minimap and its readout look. These are saved on this PC and apply to every world.
 
+- **Battles:** effects and the shake from blasts ([Battles](./battles.md)).
 - **Minimap:** mode (Auto, Ground, Planet, Solar system, Off), size, planet range, background, and which markers it shows.
 - **Readout:** the text lines under the minimap.
 - **GPS icons:** on/off, size, names, hide beyond, off-screen marks, and antenna / beacon signals ([Minimap and HUD icons](./minimap-and-hud.md)).
