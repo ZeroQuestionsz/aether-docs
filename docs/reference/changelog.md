@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.72
+
+- **Sound through the hull**: with the optional sound plugin, guns and blasts on the ship you're touching now reach you through the metal when there's no air, dull and quieter. Seated or feet on the ship both count. Without the plugin, nothing changes.
+- Not covered: floating in a cabin without touching anything is still silent.
+
 ## v0.71
 
 - **Ready for a sound plugin**: gunfire can now shift in pitch from a moving ship, with an optional game plugin that's still in testing. Without it, nothing changes.

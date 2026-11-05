@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.72
+With an optional sound plugin, your ship's guns now come through the hull in space. No plugin, no change. [What's new →](./reference/changelog.md)
+:::
+
 ::: tip v0.71
 Behind the scenes: AETHER's gunfire is ready for an optional sound plugin, with no change if you don't have it. [What's new →](./reference/changelog.md)
 :::

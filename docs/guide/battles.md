@@ -19,7 +19,7 @@ Sound takes time to reach you, as it does in air:
 | 2 km | 5.8 s |
 
 - **It comes from where it happened.** A sound starts from a fixed place and moment, so flying towards a blast means you meet its sound sooner.
-- **No air, no sound.** You won't hear anything if there's no air at the source, around you, or halfway along a long path. The game's own suit sounds, like your jetpack, still play.
+- **No air, no sound.** You won't hear anything if there's no air at the source, around you, or halfway along a long path. The game's own suit sounds, like your jetpack, still play. With the optional sound plugin there's one exception: guns and blasts on the ship you're seated in or standing on come through the hull, dull and quieter.
 - **Distance makes it quieter.** Past a set distance for each kind of sound, the level falls by half each time the distance doubles.
 - **Pausing holds it.** Sounds on their way wait for you, and those playing go quiet.
 - **Any sound setting.** All of this works the same with the game's Realistic sound setting on or off.
