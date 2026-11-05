@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.70.1
+Close gatling fire no longer shows a red error, and sound is checked with the game's Realistic setting. [See the guide →](./guide/battles.md#sound)
+:::
+
 ::: tip v0.70
 Fights now have effects and sound that travels: see a far blast first, hear it seconds later. [See the guide →](./guide/battles.md)
 :::

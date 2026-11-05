@@ -22,6 +22,7 @@ Sound takes time to reach you, as it does in air:
 - **No air, no sound.** You won't hear anything if there's no air at the source, around you, or halfway along a long path. The game's own suit sounds, like your jetpack, still play.
 - **Distance makes it quieter.** Past a set distance for each kind of sound, the level falls by half each time the distance doubles.
 - **Pausing holds it.** Sounds on their way wait for you, and those playing go quiet.
+- **Any sound setting.** All of this works the same with the game's Realistic sound setting on or off.
 
 Guns, blasts and hits on the ground use the game's own recordings. Blasts have a low layer added, a tight thump for small ones and a long rumble for big ones.
 

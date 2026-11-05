@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.70.1
+
+- **Gatling fix**: close gatling fire no longer shows a red error, and it plays as real gunfire.
+- **Realistic sound**: checked with the game's Realistic setting. Delays, vacuum and distance all work the same. [Guide →](../guide/battles.md#sound)
+- Not yet seen in game: a fight with the final low layers.
+
 ## v0.70
 
 - **Sound that travels**: you see a blast 2 km off nearly six seconds before you hear it, and there's no sound without air. [Guide →](../guide/battles.md#sound)
