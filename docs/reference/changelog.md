@@ -2,6 +2,11 @@
 
 The latest versions, newest first.
 
+## v0.71
+
+- **Ready for a sound plugin**: gunfire can now shift in pitch from a moving ship, with an optional game plugin that's still in testing. Without it, nothing changes.
+- Not yet seen in game: gunfire from a moving ship with the plugin.
+
 ## v0.70.1
 
 - **Gatling fix**: close gatling fire no longer shows a red error, and it plays as real gunfire.

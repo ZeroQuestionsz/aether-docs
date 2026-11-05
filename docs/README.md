@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.71
+Behind the scenes: AETHER's gunfire is ready for an optional sound plugin, with no change if you don't have it. [What's new →](./reference/changelog.md)
+:::
+
 ::: tip v0.70.1
 Close gatling fire no longer shows a red error, and sound is checked with the game's Realistic setting. [See the guide →](./guide/battles.md#sound)
 :::
