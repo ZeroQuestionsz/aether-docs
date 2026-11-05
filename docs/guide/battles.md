@@ -24,7 +24,9 @@ Sound takes time to reach you, as it does in air:
 - **Pausing holds it.** Sounds on their way wait for you, and those playing go quiet.
 - **Any sound setting.** All of this works the same with the game's Realistic sound setting on or off.
 
-Guns, blasts and hits on the ground use the game's own recordings. Blasts have a low layer added, a tight thump for small ones and a long rumble for big ones.
+Blasts use real recordings, with a set for each size. Up close each size has its own, and from further off they switch to distant recordings: from 75 m for small, 150 m for medium and 250 m for big. Big blasts add falling debris about a second later. All blasts have a low layer added, a tight thump for small ones and a long rumble for big ones.
+
+Guns and hits on the ground use the game's own recordings for now.
 
 ::: tip What's assumed
 Air is treated as Earth-like everywhere, with sound at 343 m/s. How loud each kind of sound is up close is set by ear, not measured.

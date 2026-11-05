@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.73
+
+- **Real explosion recordings**: small, medium and big blasts now have their own sets of recordings, chosen by ear. Big blasts add falling debris.
+- **Blasts fade properly**: they get quieter past 75, 150 and 250 m by size. Big blasts used to stay at full level out to a kilometre.
+- **Far blasts on time**: silence at the start of the recordings no longer adds to the delay.
+
 ## v0.72.1
 
 - **Hull sound in sealed rooms**: floating in a pressurised room now counts as touching the ship.
