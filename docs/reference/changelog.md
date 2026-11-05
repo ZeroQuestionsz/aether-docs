@@ -2,10 +2,13 @@
 
 The latest versions, newest first.
 
+## v0.72.1
+
+- **Hull sound in sealed rooms**: floating in a pressurised room now counts as touching the ship.
+
 ## v0.72
 
 - **Sound through the hull**: with the optional sound plugin, guns and blasts on the ship you're touching now reach you through the metal when there's no air, dull and quieter. Seated or feet on the ship both count. Without the plugin, nothing changes.
-- Not covered: floating in a cabin without touching anything is still silent.
 
 ## v0.71
 
