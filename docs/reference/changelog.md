@@ -2,6 +2,12 @@
 
 The latest versions, newest first.
 
+## v0.74
+
+- **Real gatling recordings**: gatling fire is now one sustained sound with a start, a loop and an end, instead of a sound restarted for every shot.
+- **A voice for each ship**: a ship sounds like an A-10 or an M61 and keeps it, every time it fires and after a reload. Different ships can differ, even with the same gun.
+- **Bursts at range**: a burst arrives as one sound, its end plays when the last shot reaches you, and pauses in firing stay audible.
+
 ## v0.73
 
 - **Real explosion recordings**: small, medium and big blasts now have their own sets of recordings, chosen by ear. Big blasts add falling debris.

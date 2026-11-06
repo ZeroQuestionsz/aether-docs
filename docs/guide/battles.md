@@ -26,7 +26,9 @@ Sound takes time to reach you, as it does in air:
 
 Blasts use real recordings, with a set for each size. Up close each size has its own, and from further off they switch to distant recordings: from 75 m for small, 150 m for medium and 250 m for big. Big blasts add falling debris about a second later. All blasts have a low layer added, a tight thump for small ones and a long rumble for big ones.
 
-Guns and hits on the ground use the game's own recordings for now.
+Gatlings use real recordings too, as one sustained sound with a start, a loop and an end, so the end comes when the last shot reaches you. Each ship has a voice, A-10 or M61, and keeps it, so one ship always sounds the same even if another with the same gun sounds different.
+
+Other guns and hits on the ground use the game's own recordings for now.
 
 ::: tip What's assumed
 Air is treated as Earth-like everywhere, with sound at 343 m/s. How loud each kind of sound is up close is set by ear, not measured.

@@ -20,6 +20,10 @@ features:
 footer: AETHER · JARVIS · single-player, Space Engineers 1 · Requires the Text HUD API mod
 ---
 
+::: tip v0.74
+Gatlings now use real recordings, and each ship keeps its own voice. [See the guide →](./guide/battles.md#sound)
+:::
+
 ::: tip v0.73
 Explosions now use real recordings, with a set for each size, and they fade properly with distance. [What's new →](./reference/changelog.md)
 :::
